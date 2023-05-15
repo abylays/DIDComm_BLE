@@ -1,0 +1,7 @@
+{
+  "name": "MobileApp",
+  "displayName": "MobileApp",
+  "packagerOpts": {
+    "config": "metro.config.js"
+  }
+}
